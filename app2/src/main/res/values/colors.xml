@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="light_red" type="color">#db4437</item>
+    <item name="dark_red" type="color">#c74338</item>
+
+</resources>

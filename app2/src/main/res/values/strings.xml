@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraRoll</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Delete All</string>
+    <string name="load">LOAD</string>
+    <string name="title_activity_full_screen_image">FullScreenImageActivity</string>
+</resources>
